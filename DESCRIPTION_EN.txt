@@ -1,0 +1,13 @@
+Build Water adds placeable water blocks with proper water volume behavior. It integrates with terrain (wet ground and water vegetation), and lets the hoe/cultivator work through water blocks. Config changes apply live without a restart.
+
+Installation:
+1) Install BepInExPack for Valheim.
+2) Copy BuildWater.dll to BepInEx/plugins/.
+3) Launch the game once to generate the config.
+
+Requirements:
+- Valheim
+- BepInExPack_Valheim
+
+Dependencies:
+- denikson-BepInExPack_Valheim
